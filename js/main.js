@@ -278,6 +278,24 @@ $(function () {
 	});
 
 
+	/*---------------------------------------------------- */
+	/*	Send Email js
+	------------------------------------------------------ */
+	// function sendMail(){
+	// 	var tempMail = {
+	// 		user_name: document.getElementById("contactName").value,
+	// 		user_mail: document.getElementById("contactEmail").value,
+	// 		subject: document.getElementById("contactSubject").value,
+	// 		message: document.getElementById("contactMessage").value,
+	// 	}
+
+	// 	emailjs.send('service_vino00', 'template_zor5lrc', tempMail)
+	// 	.then(function(res){
+	// 		console.log("Success", res.status);
+	// 	})
+	// }
+
+
  	/*----------------------------------------------------- */
   	/* Back to top
    ------------------------------------------------------- */ 
